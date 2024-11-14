@@ -36,6 +36,7 @@ img {
   grid-row: 1;
   margin: 5em 2em;
   color: rgba(255, 255, 255, 0.731);
+  margin-bottom: 1em;
 }
 .divide {
   width: 100vw;
@@ -100,5 +101,8 @@ img {
   .section-two > h1,
   #footer {
     display: none;
+  }
+  .section-one-content {
+    margin-top: 0.5em;
   }
 }
