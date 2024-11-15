@@ -86,6 +86,12 @@ img {
   margin-top: 3em;
   color: white;
 }
+#footer {
+  background-color: rgb(248, 249, 250);
+  display: flex;
+  justify-content: center;
+  color: black;
+}
 /* Reactive styles */
 @media (max-width: 768px) {
   .section-one,
